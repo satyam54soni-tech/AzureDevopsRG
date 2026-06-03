@@ -1,0 +1,2 @@
+# AzureDevopsRG
+Create RG
